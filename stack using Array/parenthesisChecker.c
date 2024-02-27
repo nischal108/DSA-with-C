@@ -1,7 +1,6 @@
 /*checks whether the parentheses in a given mathematical expression are balanced, utilizing a stack for push and pop operations to validate the correct pairing of opening and closing parentheses.*/
 
 #include <stdio.h>
-#include <stdbool.h>
 
 #define MAX_SIZE 50
 
